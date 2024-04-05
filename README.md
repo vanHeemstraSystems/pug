@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+pug
+# Pug
 
-Based on "ABC" at https://www.abc.com/
+Based on "Pug - Getting Started" at https://pugjs.org/api/getting-started.html
 
 ## 100 - Introduction
 
