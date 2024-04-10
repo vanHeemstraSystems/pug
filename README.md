@@ -7,6 +7,8 @@ Based on "Make multipage HTML development suck less with Pug" at https://www.fre
 
 Based on "Pug Life - Developing Static sites with Pug" at https://www.youtube.com/watch?v=vBJwetqiX0g
 
+Based on "Server-Side Rendering with Pug Templates" at https://medium.com/@SigniorGratiano/server-side-rendering-with-pug-templates-e1e5947d4c1a
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
